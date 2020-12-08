@@ -1,0 +1,4 @@
+sdk.dir=C:\\Users\\vivek\\AppData\\Local\\Android\\sdk
+flutter.sdk=C:\\Users\\vivek\\shopping\\flutter
+flutter.buildMode=release
+flutter.versionName=0.2.0
